@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/gian1/Downloads/SQLite%205%202/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v16/values-v16.xml -->
+    <eat-comment/>
+    <dimen name="notification_right_side_padding_top">4dp</dimen>
+    <!-- From: file:/Users/gian1/Downloads/SQLite%205%202/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v16/values-v16.xml -->
+    <eat-comment/>
+    <style name="TextAppearance.AppCompat.Tooltip">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+</resources>

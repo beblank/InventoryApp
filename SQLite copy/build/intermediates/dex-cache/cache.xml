@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/gian1/Downloads/SQLite 5 2/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/gian1/Downloads/SQLite 5 2/app/build/intermediates/pre-dexed/debug/classes-ef674ca7c88e1f3cda89a3737903ac6c085beca7.jar" />
+    </item>
+    <item
+        jar="/Users/gian1/Downloads/SQLite 5 2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/gian1/Downloads/SQLite 5 2/app/build/intermediates/pre-dexed/debug/classes-8dacdb5c56340aa64658ef299246d4d6021981a5.jar" />
+    </item>
+    <item
+        jar="/Users/gian1/Downloads/SQLite 5 2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/gian1/Downloads/SQLite 5 2/app/build/intermediates/pre-dexed/debug/classes-34661cde67986939d9c9392163bb4046b63201fd.jar" />
+    </item>
+    <item
+        jar="/Users/gian1/Downloads/SQLite 5 2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/gian1/Downloads/SQLite 5 2/app/build/intermediates/pre-dexed/debug/classes-1e0edaa06a95c639a9c794c0766f99dcddab2edd.jar" />
+    </item>
+    <item
+        jar="/Users/gian1/Downloads/SQLite 5 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/gian1/Downloads/SQLite 5 2/app/build/intermediates/pre-dexed/debug/classes-7ee9f8d14cf798ba3934a9973477d0916a7f3b24.jar" />
+    </item>
+    <item
+        jar="/Users/gian1/Downloads/SQLite 5 2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/gian1/Downloads/SQLite 5 2/app/build/intermediates/pre-dexed/debug/classes-c28f60bfd890b30b59cc36342dfd231a958f993e.jar" />
+    </item>
+    <item
+        jar="/Users/gian1/Downloads/SQLite 5 2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/gian1/Downloads/SQLite 5 2/app/build/intermediates/pre-dexed/debug/classes-6b2f0ab0b6d933f9c76050b452feec34f357668d.jar" />
+    </item>
+    <item
+        jar="/Users/gian1/Downloads/SQLite 5 2/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/gian1/Downloads/SQLite 5 2/app/build/intermediates/pre-dexed/debug/classes-1f46fe2d6868c2a7600b35bd1b0d7dfb6a8692f6.jar" />
+    </item>
+    <item
+        jar="/Users/gian1/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/gian1/Downloads/SQLite 5 2/app/build/intermediates/pre-dexed/debug/common-1.0.0-8adaac83183db165c7e12563b21f64b41a077672.jar" />
+    </item>
+    <item
+        jar="/Users/gian1/Downloads/SQLite 5 2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/gian1/Downloads/SQLite 5 2/app/build/intermediates/pre-dexed/debug/classes-6ff9c641f03942269a5516e3c5cefccbe612f2ec.jar" />
+    </item>
+    <item
+        jar="/Users/gian1/Downloads/SQLite 5 2/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/gian1/Downloads/SQLite 5 2/app/build/intermediates/pre-dexed/debug/classes-bcf527c7f03b189699e22ad37db5dc680369f47e.jar" />
+    </item>
+    <item
+        jar="/Users/gian1/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.0.2/b9cd8fc6bd15cb915735d34535db30ece0c44603/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/gian1/Downloads/SQLite 5 2/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2-ae885e0b64a628105591aad309aa25a29cd2a7d2.jar" />
+    </item>
+    <item
+        jar="/Users/gian1/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/gian1/Downloads/SQLite 5 2/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0-2cbb36063cbe680549d4f5bf2ece09f042692b7e.jar" />
+    </item>
+    <item
+        jar="/Users/gian1/Downloads/SQLite 5 2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/gian1/Downloads/SQLite 5 2/app/build/intermediates/pre-dexed/debug/classes-5cb22e049ca69bf3edb29b379852dc193116e1f8.jar" />
+    </item>
+    <item
+        jar="/Users/gian1/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/gian1/Downloads/SQLite 5 2/app/build/intermediates/pre-dexed/debug/common-1.0.0-618df899d10e8b354419fd7c9aaebb7e6881d34e.jar" />
+    </item>
+
+</items>
